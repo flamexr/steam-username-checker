@@ -21,3 +21,4 @@ Sonuçlar otomatik olarak bir dosyaya kaydedilecektir.
 Discord: flamesnt
 
 ![image alt](https://raw.githubusercontent.com/flamexr/steam-username-checker/refs/heads/main/Screenshot_343.png)
+![image alt](https://raw.githubusercontent.com/flamexr/steam-username-checker/refs/heads/main/Screenshot_344.png)
