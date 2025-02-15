@@ -19,3 +19,5 @@ Sonuçlar otomatik olarak bir dosyaya kaydedilecektir.
 ## 📝 | [Destek Sunucusu](https://discord.gg/josreen)
 
 Discord: flamesnt
+
+![image alt](https://raw.githubusercontent.com/flamexr/steam-username-checker/refs/heads/main/Screenshot_343.png)
